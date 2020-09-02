@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "45061577604",
+    "firebase_url": "https://team-chat-fcefb.firebaseio.com",
+    "project_id": "team-chat-fcefb",
+    "storage_bucket": "team-chat-fcefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45061577604:android:08cdcfdc41e8e187445bd1",
+        "android_client_info": {
+          "package_name": "com.example.teamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45061577604-ektaa223cq61bjv19tl2pkcc2i43g2en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamchat",
+            "certificate_hash": "8b0bc5587250c157f6ea2fc926f209f1c5949862"
+          }
+        },
+        {
+          "client_id": "45061577604-a99drkhrslfa46vccouivafihc51ho72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcPH7Bzm3tby6o9HDKkDhR4WzP8kKuZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45061577604-a99drkhrslfa46vccouivafihc51ho72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
